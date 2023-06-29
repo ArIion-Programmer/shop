@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'RobotoLight';
+    src: url(../fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'AsapRegular';
+    src: url(../fonts/Asap-Regular.ttf);
+}
+@font-face {
+    font-family: 'LatoHairline';
+    src: url(../fonts/Lato-Hairline.ttf);
+}
